@@ -34,6 +34,7 @@
     border-radius: 20px;
     border: none;
   }
+  
   input:focus-visible {
     outline-offset: 0px;
     outline: -webkit-focus-ring-color auto 0px;
